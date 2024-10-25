@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "judul": "The Shawshank Redemption",
+    "tahun_rilis": 1994,
+    "genre": "Drama",
+    "rating": 9.3
+  },
+  {
+    "id": 2,
+    "judul": "The Godfather",
+    "tahun_rilis": 1972,
+    "genre": "Crime",
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "judul": "Inception",
+    "tahun_rilis": 2010,
+    "genre": "Sci-Fi",
+    "rating": 9
+  }
+]
